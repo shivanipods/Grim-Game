@@ -1,0 +1,32 @@
+About:
+The assignment is a game in which the player has to go from his current position to a destination, while avoiding obstacles. The world consists 
+of tiles surrounded by water. Some tiles are missing, some are moving in horizontal/vertical motion, some are fire tiles/teleporter (if the      player walks on any of these tiles, then he is transported back to his starting position).
+During this journey, his actions could be viewed from multiple positions, which is controllable from the keyboard keys.
+To win the game,Player should reach the end after collecting 2 coins.
+Player also gets three lives if he accidentally falls in the pits.
+The player is required to collect all the tiles and ammo (gun) etc and reach at the end of the world.
+Level2 requires the player to destroy the cartons to get more score and win the game.
+
+Movement Controls:
+Use up/down/right left arrow keys to move the player in the world.
+Use 'j' key to jump the player in the direction he is looking.
+
+Camera Controls:
+Use 'f' key to enter/exit first person view mode.
+Use 'u' key to enter/exit tower view mode.
+Use 't' key to enter/exit third person's view mode.
+Use 'l' key to enter/exit tile view mode. Use 'a','z','w' and 's' keys to select the tiles.
+Use 'g' key to enter/exit helicopter view mode.
+Use 'b' key to enter/exit rotating view mode,where left/right keys are for rotating and up/down to move forward/backwards.
+Use 'm' key to enter into multiplayer mode.
+	Herein the player can be moved by the following arrow keys:
+		w -> up
+		a -> left
+		s -> back
+		d -> right
+
+Other Controls:
+Use 'i' to increase speed of player and 'o' to decrease speed of player.
+Use 'p' to pause the game.
+
+
